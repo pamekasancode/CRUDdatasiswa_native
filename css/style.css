@@ -1,0 +1,36 @@
+body {
+
+}
+
+.main {
+	width: 100%;
+}
+
+.main table {
+	text-align: center;
+}
+
+.main table td {
+	padding: 10px;
+}
+
+.main .table a {
+	color: #fff;
+}
+
+.main table i {
+	font-size: 15px;
+}
+
+footer {
+	bottom: 0;
+	position: absolute;
+	width: 100%;
+	padding: 5px;
+	text-align: center;
+	color: #888;
+}
+
+footer p {
+	line-height: 8px;
+}
